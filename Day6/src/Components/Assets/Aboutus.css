@@ -1,0 +1,14 @@
+.para{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 38px;
+}
+.p1{
+    font-family: 'Satisfy', cursive;
+    line-height:1.8;
+    font-size: 18px;
+}
+img{
+    height: 90%;
+    width: 80%;
+    border-radius: 5%;
+}
