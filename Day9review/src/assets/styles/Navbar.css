@@ -1,0 +1,28 @@
+
+.navbar-nav li.nav-item {
+    margin-right: 120px;
+   
+  }
+  #garden{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  #link
+  {
+   
+    text-decoration: none;
+  }
+  #nav
+  {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px; 
+  }
+  @media (max-width: 768px) {
+    .navbar-nav li.nav-item {
+      margin-right: 10px; /* Adjust the margin for smaller screens */
+    }
+    
+    /* Additional styling for smaller screens if needed */
+  }
+  
+  
