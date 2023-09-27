@@ -1,0 +1,23 @@
+/* GardenContent.css */
+
+/* Container styles */
+
+/* Heading styles */
+h2 {
+    padding-bottom: 20px;
+   
+    font-size: 42px;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
